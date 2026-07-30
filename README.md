@@ -242,14 +242,6 @@ This project was built as a team/university-style collaboration. Contributions a
 
 ---
 
-## 👥 Author/Team
-
-- **[Your Name]** — Role
-- **[Team Member 2]** — Role
-- **[Team Member 3]** — Role
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
